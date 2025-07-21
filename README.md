@@ -51,7 +51,7 @@ WindowsEvents
 | project TimeGenerated, Computer, AttackerIp = IpAddress, cityname, countryname, latitude, longitude, 
   friendly_location = strcat(cityname, " (", countryname, ")")
 
-
+---
 # 🚀 Next Steps
 
 This lab forms the **foundation** of my SOC journey. Future phases will include:
