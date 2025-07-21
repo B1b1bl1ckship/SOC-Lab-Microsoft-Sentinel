@@ -7,7 +7,7 @@ This project documents my first step into building a personal, cloud-based Secur
 📖 **Full Article on Medium →** [My Journey to Building a Cloud-Based SOC Lab](https://medium.com/@pattel.milan/my-journey-to-building-a-cloud-based-soc-lab-at-home-using-microsoft-sentinel-40d257d593f7)
 
 ---## 🖼️ Visual Overview
-![SOC Map view](./Map.png)
+![SOC Map view](./Map.jpg)
 
 Here’s a high-level architecture of the SOC lab setup built on Azure using Microsoft Sentinel:
 
