@@ -10,7 +10,7 @@ This project documents my first step into building a personal, cloud-based Secur
 
 Here’s a high-level architecture of the SOC lab setup built on Azure using Microsoft Sentinel:
 
-![SOC Lab Architecture](./sentinel-architecture.png)
+![SOC Lab Architecture](./soc.png)
 
 
 ## 🧩 Key Features
