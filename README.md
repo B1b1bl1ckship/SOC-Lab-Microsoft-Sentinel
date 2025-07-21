@@ -42,7 +42,7 @@ Here’s a high-level architecture of the SOC lab setup built on Azure using Mic
 
 ## 🔍 Example KQL Query
 
-```kql
+kql
 let GeoIPDB_FULL = _GetWatchlist("geoip");
 let WindowsEvents = SecurityEvent;
 WindowsEvents
@@ -53,7 +53,8 @@ WindowsEvents
   friendly_location = strcat(cityname, " (", countryname, ")")
 
 ---
-# 🚀 Next Steps
+
+## 🚀 Next Steps
 
 This lab forms the **foundation** of my SOC journey. Future phases will include:
 
